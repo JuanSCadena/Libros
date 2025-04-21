@@ -14,26 +14,41 @@ console.log(books)
 <Layout title="Libros para programadores">
 	
 	<main>
-		<h1 class="text-center text-7xl font-extrabold pt-20 ">Seb &#128218;
+		<h1 class=" mt-10 text-center text-7xl font-extrabold mb-2 ">Seb &#128218;
 
 			 <span class="block">Books</span></h1>
 	</main>
 
 
 	<section aria-label="Libros recomendados para programadores">
-		<div class="px-4 mx-auto max-w-screen-xl">
-			<div class="grid gap-6 md:grid-cols-2">
+		<div class="mt-20 px-4 mx-auto max-w-screen-lg">
+			<div class="grid gap-y-20 gap-x-15 md:grid-cols-2">
 				{
 					books.map(book=>{
 						const {slug,data}=book
 						const {title,author,img,readtime,description,buy}=
 						data
 
+						
+
 						return(
-							<article>
-								<img src={`/${img}`} alt={title} class="w-full
-								 rounded-lg" />
-								<h3>{title}</h3>
+							<article class="flex gap-5">
+								<a href={`/libro/${slug}`} class="mb-2 xl:mb-0 transition hover:scale-110">
+									<img 
+									transition:name={`img-${slug}`}
+									class=" w-70 rounded-mg mb-4" 
+									src={`/${img}`} 
+									alt={title} />
+
+								</a>
+								
+								<div class="flex flex-col justify-center">
+									<h2 class="mb-2 text-2lg font-bold leading-tight text-white">
+										{title}
+									</h2>
+								<p class=" mb-4 text-gray-300 max-w-sm">{description}</p>
+								<span class="text-xs">&#128218 Lectura en {readtime} minutos</span>
+							</div>
 
 							</article>
 						)
