@@ -3,7 +3,7 @@ title: AI Explained; Facts, Fiction, and Future
 author: Nigel Poulton
 img: libro2.jpg
 readtime: 350
-description: Discover the incredible impact of AI with this must-read guide from best-selling author Nigel Poulton. 
+description: Descubre el increíble impacto de la inteligencia artificial con esta guía imprescindible del autor superventas Nigel Poulton.
 buy:
     spain: https://www.amazon.es/AI-Explained-Facts-Fiction-Future/dp/1916585388/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=15YNZ3GV6NOP5&dib=eyJ2IjoiMSJ9.6_DNA08mRNccXPzcXBqWfyHSQKAz-1OL8voZMXGztcQMjU6prqu-_VxkQoV7MyZ51bJIZc6pNgY5ezlMjPnC3VvJkADTMCMEOx0yX2xwBTT_Wjb2rLqW38SPryR5cmalJCnCGfUMCnbfcVIiJTzTlgl6LIpxXf-awx6isLX2XHTQXPTY9Eyz_f30CgtjwsUQHKDYIGPcTDs_GSgNZLmBUSrLTNFK_m3rnMQZxjeucaOPYnI_fhaLeUT8mAWuMuF4WPOquDXwa_4ckk-GnjZjjHy39Rb_537geB70j08XyoY.u1M0a8_oOz2aeJfbD51WPnmocOxVjeIwieW2TQoXkaA&dib_tag=se&keywords=ai+explained&qid=1745175047&sprefix=ai+explaine%2Caps%2C278&sr=8-1
 
@@ -12,13 +12,14 @@ buy:
 ---
 
 
-From revolutionising our daily lives to shaping global politics, global economies, national security, and even sports, AI is changing the world in ways we never thought possible. But beware - with great power comes great responsibility, and this book doesn't shy away from the ethical dilemmas, risks, and potential threats of AI.
+Desde revolucionar nuestra vida cotidiana hasta moldear la política global, las economías del mundo, la seguridad nacional e incluso los deportes, la inteligencia artificial está cambiando el mundo de formas que nunca imaginamos posibles. Pero cuidado: con un gran poder viene una gran responsabilidad, y este libro no evita hablar de **los dilemas éticos, los riesgos y las posibles amenazas de la IA.**
 
-Learn the truth about AIs and how we create them
-Uncover the potential for positive change in areas such as **education, healthcare, transportation, and even sports
-Gain insights into the latest developments in AI, including ChatGPT, deepfakes, bias, consciousness, and ethics**
+Descubre la verdad sobre las inteligencias artificiales y cómo las creamos
+Conoce el potencial de cambio positivo en áreas como la educación, la salud, el transporte e incluso los deportes
+Obtén información sobre los últimos avances en IA, incluidos ChatGPT, los deepfakes, los sesgos, la conciencia y la ética
 
-Understand the challenges surrounding AI consciousness and self-awareness
-Consider the dangers of AIs falling into the wrong hands or AIs going rogue
-Explore real-world examples and draw your own conclusions about the impact of AI on our economy, local and global politics, national security, and the climate
-If you're intrigued about AI and want to understand its incredible potential, this book is a game-changer. It reads like a novel but is packed with facts and insights, delivering a thought-provoking exploration of AI that will challenge the way you think about technology and its impact on our daily lives and the future of humanity.
+Comprende los desafíos que rodean la conciencia y la autoconciencia en la IA
+Considera los peligros de que la IA **caiga en las manos equivocadas o se vuelva incontrolable**
+Explora ejemplos del mundo real y saca tus propias conclusiones sobre el impacto de la IA en nuestra economía, la política local y global, la seguridad nacional y el clima
+
+**Si sientes curiosidad por la IA** y quieres comprender su increíble potencial, este libro es un punto de inflexión. Se lee como una novela pero está lleno de datos e ideas, ofreciendo una exploración provocadora sobre la IA que cambiará tu forma de pensar sobre la tecnología y su impacto en nuestra vida diaria y en el futuro de la humanidad.
